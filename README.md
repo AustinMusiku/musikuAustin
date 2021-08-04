@@ -2,6 +2,22 @@
 
 Hey welcome to my profile
 
+##### What do I do
+
+- Backend
+    - Nodejs
+    - Express
+    - Mongodb
+    - mySQL
+
+- Frontend
+    - html/css
+    - Scss
+    - Vue
+    - Nuxt
+
+- Microservices
+    - Go
 
 
 You can also find me on [austinmusiku.co.ke](https://austinmusiku.co.ke)
