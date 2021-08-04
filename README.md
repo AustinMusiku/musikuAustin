@@ -1,8 +1,8 @@
-## Hi there👋! I'm Austin
+## Hi there👋 I'm Austin
 
 Hey welcome to my profile
 
-##### What do I do
+#### What I do
 
 - Backend
     - Nodejs
@@ -26,4 +26,4 @@ You can also find me on [austinmusiku.co.ke](https://austinmusiku.co.ke)
 
 [![My GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=musikuAustin&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/musikuAustin)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaranjaa&hide=css,html,vue)](https://github.com/ekaranjaa) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musikuAustin&hide=css,html,vue)](https://github.com/musikuAustin)
