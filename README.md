@@ -1,3 +1,1 @@
-# readme
-
 ## 🤖 Austin Musiku 🤖
