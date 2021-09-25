@@ -1,4 +1,4 @@
-## Hi there👋 I'm Austin
+## Hi there👋
 
 <!-- [![My GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=musikuAustin&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/musikuAustin)
 
